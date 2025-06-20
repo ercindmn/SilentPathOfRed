@@ -12,10 +12,10 @@ URP-powered lighting, rain, and visual effects
 Modular tilemaps and surface layers for scalable level design
 
 ## Technologies Used
-Unity
-Aseprite
-Tilesetter
-Audacity
+Unity,
+Aseprite,
+Tilesetter,
+Audacity,
 Bfxr
 
 
