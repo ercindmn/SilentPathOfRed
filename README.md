@@ -26,7 +26,3 @@ Playable demo and gameplay footage will be added soon.
 
 ## Development Notes
 This repository will be updated regularly as the game evolves.  
-
-
-## License
-This project is currently closed-source and intended for portfolio and showcase purposes only.
