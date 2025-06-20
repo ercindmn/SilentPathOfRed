@@ -11,6 +11,13 @@ Dynamic UI system and animated camera transitions (DOTween, Cinemachine)
 URP-powered lighting, rain, and visual effects
 Modular tilemaps and surface layers for scalable level design
 
+## Technologies Used
+Unity
+Aseprite
+Tilesetter
+Audacity
+Bfxr
+
 
 ## Current Status
 This project is in **active development**.
