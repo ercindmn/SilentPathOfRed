@@ -115,7 +115,6 @@ namespace TarodevController
 
         #endregion
 
-
         #region Jumping
 
         private bool _jumpToConsume;
@@ -182,11 +181,8 @@ namespace TarodevController
                 _frameVelocity.y = Mathf.MoveTowards(_frameVelocity.y, -_stats.MaxFallSpeed, inAirGravity * Time.fixedDeltaTime);
             }
         }
-
         #endregion
-
         private void ApplyMovement() => _rb.linearVelocity = _frameVelocity;
-
 #if UNITY_EDITOR
         private void OnValidate()
         {
@@ -201,7 +197,6 @@ namespace TarodevController
         public bool JumpHeld;
         public Vector2 Move;
     }
-
     public interface IPlayerController
     {
         public event Action<bool, float> GroundedChanged;
